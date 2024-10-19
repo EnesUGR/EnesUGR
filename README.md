@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎓I am currently a 1st year student of Celal Bayar University Mechatronics Engineering.<br>📚 I’m currently learning OpenCV
+🎓I am currently a third-year student of Celal Bayar University Mechatronics Engineering.<br>📚 I’m currently learning OpenCV
 
   
   
